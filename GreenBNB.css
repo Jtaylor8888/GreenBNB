@@ -619,9 +619,9 @@ a {
     }
 
     .w3-third.w3-margin-bottom.center {
-    width: -webkit-fill-available;
-}
-    
+        width: -webkit-fill-available;
+    }
+
     .w3-col.m4, .w3-third {
         width: 33.33333%
     }
@@ -1505,8 +1505,8 @@ a {
 }
 
 .w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
-    color: #000 !important;
-    background-color: #f1f1f1 !important
+    color: #8ba570 !important; /*changes made here*/
+    background-color: #ffffff !important;
 }
 
 .w3-dark-grey, .w3-hover-dark-grey:hover, .w3-dark-gray, .w3-hover-dark-gray:hover {
