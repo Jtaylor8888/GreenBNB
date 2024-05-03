@@ -618,6 +618,10 @@ a {
         width: 24.99999%
     }
 
+    .w3-third.w3-margin-bottom.center {
+    width: -webkit-fill-available;
+}
+    
     .w3-col.m4, .w3-third {
         width: 33.33333%
     }
