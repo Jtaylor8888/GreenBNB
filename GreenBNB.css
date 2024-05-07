@@ -1,6 +1,4 @@
-body {
-    
-html {
+html{
     box-sizing: border-box
 }
 
@@ -620,9 +618,9 @@ a {
     }
 
     .w3-third.w3-margin-bottom.center {
-    width: -webkit-fill-available;
-}
-    
+        width: fit-content;
+    }
+
     .w3-col.m4, .w3-third {
         width: 33.33333%
     }
@@ -1482,7 +1480,7 @@ a {
 
 .w3-teal, .w3-hover-teal:hover {
     color: #fff !important;
-    background-color:#5e7f5 !important /*Another change made here :) box color was changed*/
+    background-color: #a3c391 !important; /*Another change made here :) box color was changed*/
 }
 
 .w3-yellow, .w3-hover-yellow:hover {
@@ -1757,5 +1755,4 @@ a {
 
 .w3-border-pale-blue, .w3-hover-border-pale-blue:hover {
     border-color: #e7ffff !important
-}
 }
